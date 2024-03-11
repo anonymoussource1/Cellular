@@ -1,0 +1,8 @@
+name = "Desktop"
+width = 2560
+height = 1385
+max_computing_length = 2610
+max_drawing_length = 2560
+generations = 1385
+cell_size = 1
+rule = 57

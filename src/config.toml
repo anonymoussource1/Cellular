@@ -1,0 +1,8 @@
+name = "Desktop"
+width = 800
+height = 800
+max_computing_length = 150
+max_drawing_length = 100
+generations = 50
+cell_size = 10
+rule = 1
