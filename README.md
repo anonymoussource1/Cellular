@@ -10,3 +10,10 @@ TODO:
 3. Show to Griffin
 4. Maybe Julian would find interesting?
 5. Mr. Netniss might too.
+
+Notes:
+Might be functional?
+
+Requires further testing.
+
+Interesting results with 241 ( I think? )
